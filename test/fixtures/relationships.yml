@@ -1,0 +1,15 @@
+one:
+  follower: tasnim
+  followed: lana
+
+two:
+  follower: tasnim
+  followed: malory
+
+three:
+  follower: lana
+  followed: tasnim
+
+four:
+  follower: archer
+  followed: tasnim
